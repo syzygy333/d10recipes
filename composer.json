@@ -8,7 +8,7 @@
     "drupal/config_split": "^1.9",
     "drupal/core-vendor-hardening": "^10.0",
     "drupal/devel": "^5.0",
-    "drupal/seckit": "^2.0",
+    "drupal/seckit": "^2.0"
   },
   "suggest": {  },
   "license": "GPL-2.0-or-later"
