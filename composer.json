@@ -3,12 +3,9 @@
   "description": "An example Drupal recipe description",
   "type": "drupal-custom-recipe",
   "require": {
-    "drupal/admin_toolbar": "^3.4",
-    "drupal/coder": "^8.3",
-    "drupal/config_split": "^1.9",
-    "drupal/core-vendor-hardening": "^10.0",
-    "drupal/devel": "^5.0",
-    "drupal/seckit": "^2.0"
+    "drupal/gin": "^3.0",
+    "drupal/gin_login": "^2.0",
+    "drupal/gin_toolbar": "^1.0@RC"
   },
   "suggest": {  },
   "license": "GPL-2.0-or-later"
