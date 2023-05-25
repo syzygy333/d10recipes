@@ -1,0 +1,23 @@
+{
+  "name": "drupal_recipe/oomph-scaffold",
+  "description": "An example Drupal recipe description",
+  "type": "drupal-recipe",
+  "require": {
+    "composer/installers": "^2.0",
+    "cweagans/composer-patches": "^1.7",
+    "drupal-composer/preserve-paths": "^0.1.4",
+    "drupal/admin_toolbar": "^3.4",
+    "drupal/coder": "^8.3",
+    "drupal/config_split": "^1.9",
+    "drupal/core-composer-scaffold": "^10.0",
+    "drupal/core-project-message": "^10.0",
+    "drupal/core-recommended": "^10.0",
+    "drupal/core-vendor-hardening": "^10.0",
+    "drupal/devel": "^5.0",
+    "drupal/seckit": "^2.0",
+    "drush/drush": "^11.5",
+    "oomphinc/composer-installers-extender": "^2"
+  },
+  "suggest": {  },
+  "license": "GPL-2.0-or-later"
+}
